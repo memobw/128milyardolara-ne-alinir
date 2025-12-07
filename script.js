@@ -1,6 +1,6 @@
 const items = [
     
-    { name: "iPhone 17 Pro Max", price: 1200, image: "128mr site/images/iphone.jpg" },
+    { name: "iPhone 17 Pro Max", price: 1200, image: "images/iphone.jpg" },
     { name: "AirPods Pro", price: 250, image: "images/airpods.jpg" },
     { name: "Apple Watch Ultra", price: 800, image: "images/applewatch.jpg" },
     { name: "MacBook Pro M3", price: 1600, image: "images/macbook.jpg" },
